@@ -1,0 +1,15 @@
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\bin\Debug\netstandard2.0\MVVM2.deps.json
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\bin\Debug\netstandard2.0\MVVM2.dll
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\bin\Debug\netstandard2.0\ref\MVVM2.dll
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\bin\Debug\netstandard2.0\MVVM2.pdb
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MVVM2.csprojAssemblyReference.cache
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\Views\Operations.xaml.g.cs
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MVVM2.AssemblyInfoInputs.cache
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MVVM2.AssemblyInfo.cs
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MVVM2.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MVVM2.dll
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\ref\MVVM2.dll
+C:\Users\Gustavo Blanco\RiderProjects\MVVM2\MVVM2\MVVM2\obj\Debug\netstandard2.0\MVVM2.pdb
